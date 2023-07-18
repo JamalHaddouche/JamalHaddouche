@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamalHaddouche
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in artificial intelligence and data analytics
 - 🌱 I’m currently learning deep learning, machine learning, spring boot and angular
 
 
